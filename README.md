@@ -1,16 +1,7 @@
 ## 概述
-
-疑问解答可以提 [issues](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/issues) 给我或者加入我的QQ群：285680890
-
-[中文版](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/README.md)|[English](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/README-en.md)
-
 本文的目的是让Lenovo Legion Y7000 笔记本电脑系列尽量完美的使用上Mojave
 
 注意：此系列笔记本电脑似乎没有WiFi白名单，因此您无需进行任何BIOS修改。
-
-## 发布
-
-最后发布的版本是 v2.0.3，前往 [release page](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/releases) 下载即可。
 
 ## 你需要什么
 - Lenovo Legion Y7000系列笔记本
@@ -49,12 +40,5 @@
 - 进入ALCPlugFix 目录下，执行 “install双击自动安装.command” 即可
 - 该程序主要是为了解决耳机插入时系统不能自动切换耳麦问题以及耳机杂音等问题
 
-## 关于捐赠
-
-如果您认可我的工作，可以通过捐赠支持我后续的更新
-
-| 微信                                                       | 支付宝                                               |
-| ---------------------------------------------------------- | ---------------------------------------------------- |
-| ![image](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/screenshot/%E5%BE%AE%E4%BF%A1160.jpg) | ![image](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/screenshot/%E6%94%AF%E4%BB%98%E5%AE%9D160.jpg) |
 
 
