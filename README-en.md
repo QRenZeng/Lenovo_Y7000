@@ -1,13 +1,8 @@
 ## Introduction
 
-[中文版](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/README.md)|[English](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/README-en.md)
-
 Our purpose is to allow Lenovo Y7000/Y530/Y540 laptop to run mac OS mojave as natively as possible
 
 Tips: Y7000/Y530/Y540 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
-
-## Releases
-The latest version is v2.0.3 and can be downloaded on the [release page](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/releases).
 
 ## What do you need
 - Lenovo Legion Y7000/Y530/Y540 Series Notebook
@@ -46,12 +41,5 @@ The latest version is v2.0.3 and can be downloaded on the [release page](https:/
 - Execute "install双击自动安装.command"
 - This command is used to solve audio problem, if system can not shift ouput automatically as 3.5mm headphone has been plugged in, or the sound effect is rumble
 
-## About tipping
-
-If you approve my work, please suppoort me to keep updating via tipping
-
-| Wechat pay                                                       | Alipay                                               |
-| ---------------------------------------------------------- | ---------------------------------------------------- |
-| ![image](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/screenshot/%E5%BE%AE%E4%BF%A1160.jpg) | ![image](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/screenshot/%E6%94%AF%E4%BB%98%E5%AE%9D160.jpg) |
 
 
